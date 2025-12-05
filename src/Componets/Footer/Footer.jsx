@@ -28,7 +28,7 @@ function Footer() {
             <ul className='flex flex-col space-y-1 font-bold dark:text-color-yellow'>
               <Link to={'/'} className=''>Home</Link>
               <Link to={'/Menu'}>Menu</Link>
-              <Link to={'/Favorite'}>Favorite</Link>
+              <Link to={'/Favorite'}>Favorite</Link>    
               <Link to={'/Contact'}>Contact</Link>
             </ul>
           </div>
