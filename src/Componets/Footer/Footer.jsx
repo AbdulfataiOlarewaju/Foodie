@@ -29,7 +29,7 @@ function Footer() {
               <Link to={'/'} className=''>Home</Link>
               <Link to={'/Menu'}>Menu</Link>
               <Link to={'/Favorite'}>Favorite</Link>
-              <Link to={'/Contact'}>Contact</Link>
+              <Link to={'/Contacts'}>Contact</Link>
             </ul>
           </div>
 
